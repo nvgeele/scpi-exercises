@@ -1,7 +1,8 @@
 {
 	"description": {
 		"names": {
-			"nl": "Append"
+			"nl": "Append",
+			"en": "Append"
 		}
 	},
 	"evaluation": {
